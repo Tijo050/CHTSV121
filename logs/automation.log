@@ -1,0 +1,195 @@
+2024-12-10 07:46:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 07:46:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 07:46:44 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 07:47:15 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 07:47:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 07:47:17 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 07:48:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 07:48:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 07:48:24 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 08:56:23 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 08:56:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 08:56:25 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 09:02:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 09:02:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 09:19:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 09:19:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 09:20:55 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 09:20:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 09:21:01 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 09:22:48 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 09:22:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 09:22:50 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 09:24:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 09:24:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 09:25:11 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 13:57:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 13:57:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 13:58:59 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 13:58:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:01:23 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:01:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:03:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:03:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:04:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:04:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:04:47 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 14:04:47 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 14:04:49 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 14:17:55 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:17:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:18:13 INFO  TC_001_AccountRegistrationTest:15 - ############starting Account registration##########
+2024-12-10 14:18:13 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount link
+2024-12-10 14:18:18 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register link
+2024-12-10 14:18:18 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details into form
+2024-12-10 14:18:21 INFO  TC_001_AccountRegistrationTest:40 - Validating expected msg after clicking on continue
+2024-12-10 14:18:21 INFO  TC_001_AccountRegistrationTest:62 - ############Finished Account registration##########
+2024-12-10 14:18:40 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 14:18:40 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 14:18:40 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 14:27:54 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:27:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:28:12 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 14:28:12 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 14:28:12 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 14:37:08 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:37:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:39:16 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:39:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:43:53 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:43:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:44:12 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 14:44:12 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 14:44:12 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 14:45:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:45:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:48:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:48:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:51:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:51:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 14:52:13 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 14:52:13 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 14:52:15 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 14:59:43 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 14:59:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 15:00:36 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 15:00:37 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 15:00:38 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 15:01:51 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 15:01:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 16:00:45 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 16:00:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 16:04:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 16:04:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 16:09:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 16:09:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 17:02:09 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 17:02:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 17:04:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 17:04:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 17:05:40 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 17:05:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 17:08:05 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 17:08:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 17:10:02 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 17:10:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 17:10:23 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 17:10:23 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 17:10:25 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 17:10:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 17:10:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 17:11:14 INFO  TC_001_AccountRegistrationTest:15 - ############starting Account registration##########
+2024-12-10 17:11:14 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount link
+2024-12-10 17:11:21 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register link
+2024-12-10 17:11:21 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details into form
+2024-12-10 17:11:31 INFO  TC_001_AccountRegistrationTest:40 - Validating expected msg after clicking on continue
+2024-12-10 17:11:31 INFO  TC_001_AccountRegistrationTest:62 - ############Finished Account registration##########
+2024-12-10 17:11:56 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 17:11:56 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 17:11:57 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 17:51:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 17:51:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Testing\CHTSV121\master.xml
+
+2024-12-10 21:59:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 22:01:05 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 22:01:05 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 22:01:07 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 22:13:27 DEBUG TestNG:82 - suiteXmlPath: "D:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 22:13:53 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 22:13:53 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 22:13:55 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 22:31:42 DEBUG TestNG:82 - suiteXmlPath: "D:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 22:32:05 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 22:32:05 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 22:32:06 INFO  TC_002_LoginTest:25 - Clicked on Login link
+2024-12-10 22:49:29 DEBUG TestNG:82 - suiteXmlPath: "D:\Workspaces\Testing\CHTSV121\master.xml"
+2024-12-10 22:49:57 INFO  TC_002_LoginTest:17 - ############starting Login ##########
+2024-12-10 22:49:57 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link
+2024-12-10 22:50:00 INFO  TC_002_LoginTest:25 - Clicked on Login link
